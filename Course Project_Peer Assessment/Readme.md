@@ -1,5 +1,7 @@
 ###Peer Assessments /Getting and Cleaning Data Course Project
 
+## CodeBook:
+
 Folder structure:
 
 Main Folder / UCI HAR Dataset /  <- this folder should contain the data extracted from the zip file. for example : activity_labels,features,features_info,README and test and train folder.
